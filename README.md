@@ -1,4 +1,6 @@
 # Astrum
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRyanHavoc%2Fastrum.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRyanHavoc%2Fastrum?ref=badge_shield)
+
 
 ![](http://nodivide.imgix.net/astrum/header.jpg)
 
@@ -453,3 +455,6 @@ Our command-line tool is built using [Commander](https://www.npmjs.com/package/c
 <a href=“#license”></a>
 ## License
 The code is available under the [MIT license](_template/LICENSE.txt).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRyanHavoc%2Fastrum.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRyanHavoc%2Fastrum?ref=badge_large)
